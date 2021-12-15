@@ -1,5 +1,10 @@
 # README
 
+链接：https://pan.baidu.com/s/1LWHSvUClBkqc-Qt9H6FTZA 
+提取码：kksk 
+
+
+
 UE4商城自带的anime starter pack 有逻辑bug，即使在空中，也会有行走的动作， 而且没有falling loop的使用。    
 
 
